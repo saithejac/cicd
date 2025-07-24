@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello from C++ insidesss Docker!" << std::endl;
+    std::cout << "Hello from C++ inside Docker cicd!" << std::endl;
     return 0;
 }
